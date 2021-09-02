@@ -20,3 +20,6 @@ The included APKs are:
    * GsfProxy: a GmsCore proxy for legacy GCM compatibility
    * FakeStore: an empty package that mocks the existence of the Google Play Store
    * com.google.android.maps: legacy microG's mapsv1 reimplementation
+* Aurorastore (binaries sourced from [here](https://files.auroraoss.com/AuroraStore/Stable/))
+* TEL (binaries sourced from [here](https://github.com/t-e-l/tel/))
+* Open Camera (binaries source from [here](https://f-droid.org/de/packages/net.sourceforge.opencamera/))
